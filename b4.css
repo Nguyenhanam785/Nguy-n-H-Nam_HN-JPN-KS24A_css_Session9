@@ -1,0 +1,37 @@
+.form{
+    background-color: aliceblue;
+}
+.item{
+    background-color: rgb(70, 152, 247);
+    color: white;
+    padding: 10px;
+}
+.item1{
+    display: flex;
+    
+}
+.item1 :nth-child(1){
+    background-color: rgb(91, 247, 70);
+    width: 300px;
+    height: 400px;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 0px;
+}
+.item1 :nth-child(2){
+    display: flex;
+    background-color: rgb(247, 70, 70);
+    width: 1200px;
+    height: 400px;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.item2{
+    background-color: rgb(226, 70, 247);
+    color: white;
+    padding: 10px;
+}
